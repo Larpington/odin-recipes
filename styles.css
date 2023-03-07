@@ -1,0 +1,32 @@
+h1 {
+    font-size: 36px;
+    font-family: Verdana, sans-serif;
+}
+h3 {
+    font-size: 22px;
+}
+.mainpage {
+    background-color: blue;
+    color: red;
+}
+.linklist {
+    font-size: 20px;
+    font-family:'Courier New', monospace;
+}
+.hamburger {
+    background-color: black;
+    color: white;
+}
+.ilist {
+    font-size: 20px;
+    font-family: Tahoma, sans-serif;
+}
+.stepslist {
+    font-size: 18px;
+    font-family: Tahoma, sans-serif;
+    font-weight: 300;
+}
+img {
+    height:auto;
+    width: 450px;
+}
